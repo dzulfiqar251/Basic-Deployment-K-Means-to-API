@@ -7,4 +7,4 @@ cara menjalankan programnya cukup membuka command promt, lalu masukan perintah b
 >>python (namafile).py
 
 
-sebelum mencoba, saya sarankan untuk meng-install python terlebih dahulu pada command promt agar dapat berjalan, semoga bermanfaat.
+sebelum mencoba, saya sarankan untuk meng-install python, flask, serta jcomp.utils terlebih dahulu pada command promt agar dapat berjalan, semoga bermanfaat.
